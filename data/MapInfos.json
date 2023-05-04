@@ -2,7 +2,9 @@
 null,
 {"id":1,"expanded":true,"name":"エルガ商店LV１","order":1,"parentId":0,"scrollX":984,"scrollY":1021.7777777777778},
 {"id":2,"expanded":true,"name":"エルガ商店LV２","order":2,"parentId":0,"scrollX":805.3333333333334,"scrollY":1129.3333333333333},
-{"id":3,"expanded":true,"name":"エルガ商店LV１(撮影用)","order":3,"parentId":0,"scrollX":984,"scrollY":1062.6666666666667},
-{"id":4,"expanded":false,"name":"村","order":4,"parentId":0,"scrollX":816,"scrollY":747.1111111111111},
-{"id":5,"expanded":true,"name":"ガチャ店","order":5,"parentId":0,"scrollX":984,"scrollY":1021.7777777777778}
+{"id":3,"expanded":true,"name":"撮影用","order":5,"parentId":0,"scrollX":984,"scrollY":1062.6666666666667},
+{"id":4,"expanded":false,"name":"村","order":3,"parentId":0,"scrollX":816,"scrollY":747.1111111111111},
+{"id":5,"expanded":true,"name":"ガチャ店","order":4,"parentId":0,"scrollX":984,"scrollY":1021.7777777777778},
+{"id":6,"expanded":true,"name":"エルガ商店LV１","order":6,"parentId":3,"scrollX":984,"scrollY":1021.7777777777778},
+{"id":7,"expanded":true,"name":"エルガ商店LV２","order":7,"parentId":3,"scrollX":805.3333333333334,"scrollY":1129.3333333333333}
 ]
